@@ -3,3 +3,14 @@
 <img width="1702" height="758" alt="2  Cashflow" src="https://github.com/user-attachments/assets/ba7130d1-42b6-4740-8861-f2ea76723dd0" />
 <img width="1718" height="719" alt="3  Cashflow- custom laon inputs" src="https://github.com/user-attachments/assets/c357d02b-57bc-4314-a2cf-5f27592033b8" />
 <img width="1658" height="705" alt="5  custom sales increment %" src="https://github.com/user-attachments/assets/6c9597c2-afa3-4aa9-a054-3d51ed6c3efa" />
+
+
+Findings:
+) Introducing Flat delivery charges of £14.95 per order by the courier firm , is  not a viable option.
+Because the netbalance reduced to -40565 from the range of -37000s.
+
+2) Introduction of discount scheme also proved to be futile attempt as the netbalance reduced to   -55701  from the range of -37000s.
+
+3) When there is an increment of 5% of sales through months, the net balance total increased to 27153, which is a good sign.
+
+
